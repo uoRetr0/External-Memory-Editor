@@ -51,6 +51,13 @@ This tool is designed to demonstrate advanced memory manipulation techniques on 
 - Make sure to run Visual Studio as an administrator to compile and execute the tool, ensuring it has the required permissions to modify process memory.
 - Execute the compiled project, while "Assault Cube" is open and running, then boom, your ammo value should change.
 
+# Future Improvements and Roadmap
+
+While the current version of the External Memory Editor successfully demonstrates basic memory manipulation techniques within "Assault Cube", I am always looking to enhance its functionality and user experience. Here are some potential improvements I'm considering for future versions:
+
+- **User Interface (UI)**: Develop a graphical user interface (GUI) to make the tool more accessible and user-friendly, allowing users to modify game values without needing to interact with the command line.
+- **Advanced Memory Editing Features**: Introduce more complex memory editing capabilities, such as real-time memory scanning for values, and editing more game aspects beyond ammunition counts.
+
 # Disclaimer
 
 This project is intended for educational purposes, aiming to illustrate programming techniques for research and learning. It is not endorsed for cheating or any unethical use. Users are expected to comply with all relevant software terms of service, copyright laws, and ethical guidelines.
