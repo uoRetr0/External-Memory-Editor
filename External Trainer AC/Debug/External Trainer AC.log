@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (External Trainer AC.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  External Memory Editor.cpp
+  proc.cpp
+  Generating Code...
+  External Trainer AC.vcxproj -> D:\!Tools\!Code\External Trainer AC\External-Memory-Editor\Debug\External Memory Editor.exe
