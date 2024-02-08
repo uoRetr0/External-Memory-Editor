@@ -1,6 +1,6 @@
 # External Memory Editor
 
-![Demo]([https://github.com/uoRetr0/External-Memory-Editor/demo.gif](https://github.com/uoRetr0/External-Memory-Editor/blob/main/demo.gif))
+![Demo](https://github.com/uoRetr0/External-Memory-Editor/blob/main/demo.gif)
 
 # Description
 
