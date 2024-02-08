@@ -4,7 +4,7 @@
 
 # Description
 
-This project, Game Memory Editor, is a C++ application designed to demonstrate advanced memory manipulation techniques within Windows processes. It specifically targets the "ac_client.exe" process, a component of a game, to dynamically read and modify in-game values, such as ammunition count. Utilizing [Windows API](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) and process handling capabilities, the application showcases how to:
+This project, Game Memory Editor, is a C++ application designed to demonstrate advanced memory manipulation techniques within Windows processes. It specifically interacts with "Assault Cube", a lightweight multiplayer FPS game emphasizing tactical gameplay in realistic settings, supported by a strong modding community. Utilizing [Windows API](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) and process handling capabilities, the application showcases how to:
 
 - Acquire the process ID (procId) for "ac_client.exe" through system snapshots
 - Derive the module base address of the game's executable within its process space
